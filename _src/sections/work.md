@@ -1,15 +1,15 @@
 ---
 pageClass: work
-title: "I’ve helped build some websites."
-img: work
-alt: Screenshots of Axios.com, PillPack.com, RollingStone.com, and microsoft.com/design in illustrated generic device frames.
-order: 1
+title: "Meine Arbeit an drweb.de"
+img: drweb
+alt: Screenshots von DrWeb.de in einem  in illustrated generic device frames.
+order: 2
 fullbleed: true
 ---
 
-I’m a developer that heavily skews “designer.” From design to implementation, I believe that a good layout is a flexible, durable, and maintainable one.
+Ich bin WordPress-Entwickler mit Liebe zu Design, Form und Funktion sowie guter Typographie. Ein gutes Design ist flexibel, langlebig und wartbar.
 
-I’ve been brought in to help clients like [Rolling Stone](https://rollingstone.com) with their performance concerns, clients like [Axios](https://axios.com) and [Microsoft](https://www.microsoft.com/en-us/mwf) with their accessibility concerns, and clients like [ProPublica](https://propublica.org/) and [Amazon’s PillPack](https://www.pillpack.com/) to build, maintain, and improve on their websites.
+Ich wurde hinzugezogen, um Kunden wie [Rolling Stone] (https://rollingstone.com) bei ihren Leistungsproblemen zu helfen, Kunden wie [Axios] (https://axios.com) und [Microsoft] (https: / /www.microsoft.com/en-us/mwf) mit ihren Bedenken hinsichtlich der Barrierefreiheit und Kunden wie [ProPublica] (https://propublica.org/) und [Amazon PillPack] (https://www.pillpack.com/) ) ihre Websites zu erstellen, zu pflegen und zu verbessern.
 
 ### Responsive Web Design 
 
