@@ -1,7 +1,7 @@
 ---
 pageClass: work
 title: "40% aller Webseiten laufen auf WordPress"
-img: wordpress
+img: wordpress.jpg
 alt: Screenshots von WordPress
 order: 1
 fullbleed: true
