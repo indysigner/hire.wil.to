@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-subhed: "Ich bin Markus Seyfferth und betreue Ihre WordPress-Webseite."
+subhed: "Hallo, Markus Seyfferth hier. Ich betreue Ihre WordPress-Webseite."
 lede: "Ich bin spezialisiert auf SEO (Suchmaschinenoptimierung),  WordPress und WooCommerce"
 ---
 
