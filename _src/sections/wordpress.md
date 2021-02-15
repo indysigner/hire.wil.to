@@ -1,7 +1,7 @@
 ---
 pageClass: work
 title: "40% aller Webseiten laufen auf WordPress"
-img: 40-pct-wordpress
+img: 40pct-wordpress
 alt: Screenshots von WordPress
 order: 1
 fullbleed: true
@@ -13,7 +13,9 @@ WordPress ist also mit Abstand das meistgenutzte CMS der Welt. Insbesondere die 
 
 ### Wo Licht ist, ist auch Schatten
 
-Ähnlich wie bei Windows zieht die hohe Verbreitung von WordPress und WooCommerce allerdings Hacker an wie Honig die Fliegen. Im Jahr 2020 gab es über 90 Milliarden böswillige Anmeldeversuche von über 57 Millionen IP-Adressen auf WordPress - Webseiten. Das entspricht einer Rate von 2.800 Angriffen pro Sekunde. 
+Ähnlich wie bei Windows zieht die hohe Verbreitung von WordPress und WooCommerce allerdings Hacker an wie Honig die Fliegen. Im Jahr 2020 gab es über 90 Milliarden böswillige Anmeldeversuche von über 57 Millionen IP-Adressen auf WordPress - Webseiten. Das entspricht einer Rate von 2.800 Angriffen pro Sekunde.
+
+![description](/_assets/img/40pct-wordpress.png =500)
 
 Mehr als 99% der Attacken laufen dabei automatisiert ab. Skripts und Bots grasen dabei Webseiten nach bekannten Sicherheitslöchern ab und nutzen diese aus. 
 
