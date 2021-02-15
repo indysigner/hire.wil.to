@@ -1,17 +1,13 @@
 ---
 pageClass: work
-title: "90 Milliaren böswillige Anmeldeversuche auf WordPress-Websiten"
+title: "Wo Licht ist, ist auch Schatten"
 img: 90mrd-anmeldeversuche
 alt: 90 Milliaren böswillige Anmeldeversuche auf WordPress-Websiten
 order: 2
 fullbleed: true
 ---
 
-### Wo Licht ist, ist auch Schatten
-
 Ähnlich wie bei Windows zieht die hohe Verbreitung von WordPress und WooCommerce allerdings Hacker an wie Honig die Fliegen. Im Jahr 2020 gab es über 90 Milliarden böswillige Anmeldeversuche von über 57 Millionen IP-Adressen auf WordPress - Webseiten. Das entspricht einer Rate von 2.800 Angriffen pro Sekunde.
-
-![description](/_assets/img/40pct-wordpress.png =500)
 
 Mehr als 99% der Attacken laufen dabei automatisiert ab. Skripts und Bots grasen dabei Webseiten nach bekannten Sicherheitslöchern ab und nutzen diese aus. 
 
