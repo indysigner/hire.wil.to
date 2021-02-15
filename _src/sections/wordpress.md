@@ -4,7 +4,7 @@ title: "40% aller Webseiten laufen auf WordPress"
 img: 40-pct-wordpress
 alt: Screenshots von WordPress
 order: 1
-fullbleed: false
+fullbleed: true
 ---
 
 Laut W3Techs laufen 40% aller Webseiten auf WordPress.[<sup>[1]</sup>](https://w3techs.com/technologies/details/cm-wordpress) Rechnet man die Webseiten ohne Content-Management-System (CMS) heraus, sind es sogar 64% aller Websites, die mit WordPress unterwegs sind. 
